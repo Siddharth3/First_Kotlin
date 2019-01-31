@@ -3,6 +3,6 @@ Follow the simple steps given here : https://kotlinlang.org/docs/tutorials/kotli
 
 Project helps you in :
   1. How to show "Toast" in kotlin. 
-  2. Setting text on Text View and buttons in kotlin.
+  2. Setting dynamic text on Text View and buttons in kotlin.
   3. Navigating from one activity to second activity in kotlin. 
   4. Passing string from one activity to second activity in kotlin.
